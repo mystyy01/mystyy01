@@ -26,7 +26,7 @@ Python, JavaScript/TypeScript, Bash
 ## 🧠 Current Projects
 - **lazydev** - boilerplate killer, generates projects + templates  
 - **Echo** - AI Spotify playlist generator 
-- **Briefly** — YouTube video summarizer 
+- **Briefly** - YouTube video summarizer 
 - A LOT of random python bots like vinted monitors and depop dropshippers
 
 ## 💬 Hit me up
