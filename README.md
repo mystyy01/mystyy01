@@ -30,8 +30,6 @@ Python, JavaScript/TypeScript, Bash
 - A LOT of random python bots like vinted monitors and depop dropshippers
 
 ## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=mystyy01&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mystyy01&layout=compact&theme=radical)
-
+[![Mystyy01's GitHub stats](https://github-readme-stats.vercel.app/api?username=mystyy01)](https://github.com/anuraghazra/github-readme-stats)
 ## 💬 Hit me up
 If you wanna build something dumb, cursed, or genius - I’m down.
