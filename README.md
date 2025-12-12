@@ -26,10 +26,8 @@ Python, JavaScript/TypeScript, Bash
 ## 🧠 Current Projects
 - **lazydev** - boilerplate killer, generates projects + templates  
 - **Echo** - AI Spotify playlist generator 
-- **Briefly** - YouTube video summarizer 
+- **Briefly** — YouTube video summarizer 
 - A LOT of random python bots like vinted monitors and depop dropshippers
 
-## 📈 GitHub Stats
-[![Mystyy01's GitHub stats](https://github-readme-stats.vercel.app/api?username=mystyy01)](https://github.com/anuraghazra/github-readme-stats)
 ## 💬 Hit me up
 If you wanna build something dumb, cursed, or genius - I’m down.
