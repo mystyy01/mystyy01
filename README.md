@@ -24,6 +24,7 @@ Python, JavaScript/TypeScript, Bash
 - Node
 
 ## 🧠 Current Projects
+- **mt-code** - a full IDE ran 100% in the terminal
 - **lazydev** - boilerplate killer, generates projects + templates  
 - **Echo** - AI Spotify playlist generator 
 - **Briefly** - YouTube video summarizer 
