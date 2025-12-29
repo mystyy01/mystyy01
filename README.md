@@ -1,6 +1,6 @@
 # 👋 Yo, I'm mystyy
 
-15 year old developer tryna cook up mad projects and automate my life away.
+15 year old developer tryna code creative ideas
 
 ## ⚡ What I'm On
 - Building tools, bots, CLIs, and anything that removes pain from coding
