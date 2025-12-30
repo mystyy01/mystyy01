@@ -19,10 +19,6 @@ Python, JavaScript/TypeScript, Bash
 - MoviePy, Requests, Selenium  
 - Linux everything (Manjaro / Arch-adjacent)  
 
-**Platforms:**  
-- GitHub Actions   
-- Node
-
 ## 🧠 Current Projects
 - **mt-code** - a full IDE ran 100% in the terminal
 - **lazydev** - boilerplate killer, generates projects + templates  
