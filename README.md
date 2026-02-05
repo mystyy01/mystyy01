@@ -20,10 +20,10 @@ Python, JavaScript/TypeScript, Bash
 - Linux everything (Manjaro / Arch-adjacent)  
 
 ## 🧠 Current Projects
+- **PHOBOS** - Process Handler & Optimized Boot Operating System
 - **mt-code** - a full IDE ran 100% in the terminal
 - **lazydev** - boilerplate killer, generates projects + templates  
 - **Echo** - AI Spotify playlist generator 
-- **Briefly** - YouTube video summarizer 
 - A LOT of random python bots like vinted monitors and depop dropshippers
 
 ## 💬 Hit me up
