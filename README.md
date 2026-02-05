@@ -23,7 +23,7 @@ Python, JavaScript/TypeScript, Bash
 - **PHOBOS** - Process Handler & Optimized Boot Operating System
 - **mt-code** - a full IDE ran 100% in the terminal
 - **lazydev** - boilerplate killer, generates projects + templates  
-- **Echo** - AI Spotify playlist generator 
+- **Solace** - fully automatic peer to peer dropshipping dashboard
 - A LOT of random python bots like vinted monitors and depop dropshippers
 
 ## 💬 Hit me up
